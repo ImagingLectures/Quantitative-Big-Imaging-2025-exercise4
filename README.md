@@ -8,7 +8,7 @@
 - Accept assignment: https://classroom.github.com/a/kMf68qK6
 - Clone your student repository (```git clone```)
 - Run `uv sync` and check everything is correct with `uv run hello.py`
-- Start Jupyter
+- Start Jupytera
 
 ## Exercise
 1. Evaluate on images the SNR according to different definitions
